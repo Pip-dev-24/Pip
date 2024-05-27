@@ -1,4 +1,4 @@
-![Pip](https://github.com/ShdwTakashi/Pip/assets/113185975/b951a36b-3679-4d24-80fa-e04c40045374)
+![Pip](https://github.com/ShdwTakashi/Pip/assets/113185975/a7f9f9b3-7d77-4176-a335-c61c31220623)
 
 ------
 
