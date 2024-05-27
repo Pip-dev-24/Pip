@@ -23,5 +23,5 @@ new CommandHandler({
 });
 
 client.login(DISCORD_TOKEN).catch((error) => {
-  pogger.error(`[CRASH]`, "Failed to login: " + error);
+  pogger.error(`[CRASH]`, "Failed to login:" + error);
 });
