@@ -19,3 +19,5 @@ Accepted statusses
 const { ActivityType } = require('discord.js')
 
 client.user.setPresence({ activities: [{ name: 'with depression', type: ActivityType.Streaming, url: 'https://twitch.tv/monstercat' }], status: 'online' });
+
+//This isn't the main page for our bot for security reasons!
