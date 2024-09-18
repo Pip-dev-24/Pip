@@ -9,3 +9,4 @@
   ![GitHub top language](https://img.shields.io/github/languages/top/ShdwTakashi/Pip?style=flat-square&logo=Javascript&logoColor=white&color=pink)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ShdwTakashi/Pip?color=black)
 
+_feel free to show support and give this repo a ⭐ star! It means a lot, thank you :)_
