@@ -1,0 +1,10 @@
+            - name: Sponsor Labels
+  # You may pin to the exact commit or the version.
+  # uses: JasonEtco/is-sponsor-label-action@565f3cb67b3518a8aae36c3f0bce9e8513430e84
+  uses: JasonEtco/is-sponsor-label-action@v2.0.0
+  with:
+    # The label to apply to the issue or pull request if the author is a sponsor.
+    label: # optional, default is sponsor 💖
+
+
+          
