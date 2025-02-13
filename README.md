@@ -6,12 +6,14 @@
   ![NPM License](https://img.shields.io/npm/l/node?style=flat-square&color=black)
   ![GitHub top language](https://img.shields.io/github/languages/top/ShdwTakashi/Pip?style=flat-square&logo=Javascript&logoColor=white&color=pink)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ShdwTakashi/Pip?color=black)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/ShdwTakashi/Pip)
 
-# Introduction
+# Overview
 **Pip** is a Discord Bot that is altered to your server's needs. We offer Auto-Moderation, RAID Detection, and User Authentication. Our goal is to Keep you and Your Server safe from any kind of threat.
 
-## How we work
 This Bot is Designed to work as a Fully-Automation Bot with little to No Interactions.
+
+# Current Status
 
 -----
 
