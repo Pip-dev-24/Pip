@@ -14,7 +14,8 @@
 This Bot is Designed to work as a Fully-Automation Bot with little to No Interactions.
 
 # Current Status
-
+> [!CAUTION]
+> This Bot is currently in it's Unstable Version, Please Wait a little while till we get it up and running.
 -----
 
 _feel free to show support and give this repo a ⭐ star! It means a lot, thank you :)_
